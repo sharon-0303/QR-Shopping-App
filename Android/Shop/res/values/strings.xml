@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shop</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_set_threshold">Set_threshold</string>
+    <string name="title_activity_setthreshold">Setthreshold</string>
+    <string name="title_activity_qrcodegeneration">QRcodegeneration</string>
+    <string name="title_activity_purchase_code_generation">PurchaseCodeGeneration</string>
+    <string name="title_activity_product_scanning">ProductScanning</string>
+    <string name="title_activity_set_payment">Set_payment</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_view_bill">ViewBill</string>
+    <string name="title_activity_purchasecodegeneration">Purchasecodegeneration</string>
+    <string name="title_activity_rating">Rating</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_mycart">Mycart</string>
+    <string name="title_activity_view_product">ViewProduct</string>
+    <string name="title_activity_vprodet">Vprodet</string>
+    <string name="title_activity_offers">Offers</string>
+    <string name="title_activity_prooffrdet">Prooffrdet</string>
+    <string name="title_activity_contactus">Contactus</string>
+    <string name="title_activity_forgot_password">ForgotPassword</string>
+    <string name="title_activity_offersub">Offersub</string>
+    <string name="title_activity_scanresult">Scanresult</string>
+    <string name="title_activity_ipsettings">Shop Own</string>
+    <string name="title_activity_bank">Bank</string>
+    <string name="title_activity_forgotpword">Forgotpword</string>
+    <string name="title_activity_paid">Paid</string>
+
+</resources>
